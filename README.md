@@ -1,4 +1,5 @@
-# Copenhagen Theme by Zendesk
+# Copenhagen Theme by Zendesk - Training theme
+
 
 The Copenhagen theme is the default Zendesk Guide theme. It is designed to be responsive and accessible.
 Learn more about customizing Zendesk Guide [here](https://support.zendesk.com/hc/en-us/sections/206670747).
@@ -366,3 +367,5 @@ This will then generate a major release and add a `BREAKING CHANGES` section in 
 
 # Bug reports
 Bug reports must be submitted through Zendesk's standard support channels: https://www.zendesk.com/contact/
+
+
